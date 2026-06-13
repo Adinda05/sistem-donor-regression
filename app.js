@@ -299,7 +299,7 @@ app.post(
 
       /* istanbul ignore next */
       return res.json({
-        message: "Data berhasil disimpan",
+        message: "Data tersimpan",
         data
       });
 
