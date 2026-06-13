@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1781351398308" clover="3.2.0">
+  <project timestamp="1781351398308" name="All files">
+    <metrics statements="102" coveredstatements="82" conditionals="50" coveredconditionals="36" methods="9" coveredmethods="8" elements="161" coveredelements="126" complexity="0" loc="102" ncloc="102" packages="2" files="2" classes="2"/>
+    <package name="Backend">
+      <metrics statements="99" coveredstatements="79" conditionals="50" coveredconditionals="36" methods="9" coveredmethods="8"/>
+      <file name="app.js" path="C:\Users\ASUS\SISTEMDONOR\SISTEMDONOR\Backend\app.js">
+        <metrics statements="99" coveredstatements="79" conditionals="50" coveredconditionals="36" methods="9" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="14" type="stmt"/>
+        <line num="29" count="14" type="stmt"/>
+        <line num="31" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="10" type="stmt"/>
+        <line num="38" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="194" count="1" type="stmt"/>
+        <line num="195" count="2" type="stmt"/>
+        <line num="203" count="1" type="stmt"/>
+        <line num="205" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="206" count="2" type="stmt"/>
+        <line num="227" count="1" type="stmt"/>
+        <line num="230" count="0" type="stmt"/>
+        <line num="232" count="0" type="stmt"/>
+        <line num="236" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="237" count="0" type="stmt"/>
+        <line num="242" count="0" type="stmt"/>
+        <line num="246" count="0" type="stmt"/>
+        <line num="256" count="1" type="stmt"/>
+        <line num="271" count="10" type="stmt"/>
+        <line num="273" count="10" type="stmt"/>
+        <line num="275" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="276" count="8" type="stmt"/>
+        <line num="281" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="282" count="2" type="stmt"/>
+        <line num="320" count="1" type="stmt"/>
+        <line num="321" count="4" type="stmt"/>
+        <line num="323" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="327" count="2" type="stmt"/>
+        <line num="335" count="2" type="stmt"/>
+        <line num="341" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="342" count="0" type="stmt"/>
+        <line num="347" count="0" type="stmt"/>
+        <line num="356" count="2" type="stmt"/>
+        <line num="358" count="2" type="stmt"/>
+        <line num="366" count="1" type="stmt"/>
+        <line num="367" count="4" type="stmt"/>
+        <line num="369" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="373" count="2" type="stmt"/>
+        <line num="378" count="2" type="stmt"/>
+        <line num="380" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="381" count="0" type="stmt"/>
+        <line num="386" count="0" type="stmt"/>
+        <line num="392" count="2" type="stmt"/>
+        <line num="402" count="1" type="stmt"/>
+        <line num="417" count="8" type="stmt"/>
+        <line num="420" count="8" type="stmt"/>
+        <line num="422" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="423" count="5" type="stmt"/>
+        <line num="428" count="3" type="stmt"/>
+        <line num="430" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="432" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="433" count="1" type="stmt"/>
+        <line num="438" count="2" type="stmt"/>
+        <line num="477" count="0" type="stmt"/>
+        <line num="479" count="0" type="stmt"/>
+        <line num="490" count="1" type="stmt"/>
+        <line num="502" count="7" type="stmt"/>
+        <line num="505" count="7" type="stmt"/>
+        <line num="507" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="508" count="3" type="stmt"/>
+        <line num="514" count="4" type="stmt"/>
+        <line num="517" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="521" count="1" type="stmt"/>
+        <line num="526" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="530" count="1" type="stmt"/>
+        <line num="535" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="539" count="2" type="stmt"/>
+        <line num="561" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="565" count="0" type="stmt"/>
+        <line num="591" count="0" type="stmt"/>
+        <line num="593" count="0" type="stmt"/>
+        <line num="604" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Backend.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Donor.js" path="C:\Users\ASUS\SISTEMDONOR\SISTEMDONOR\Backend\models\Donor.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
