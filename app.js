@@ -546,8 +546,8 @@ if (
 const user = await User.findOne({ email });
 
 /* istanbul ignore next */
-if (!user) {
-  return res.status(400).json({
+if (user) {
+  return res.status(500).json({
     message: "Email tidak ditemukan"
   });
 }
